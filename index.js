@@ -22,6 +22,7 @@ function iLoveTheBeatles(n){
 
   do{
     temp.push("I love the Beatles!");
+    n++;
   }while(n<25);
   return temp;
 }
